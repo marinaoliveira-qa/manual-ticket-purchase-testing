@@ -35,8 +35,8 @@ To validate the ticket purchase flow of a public event ticketing website (name w
 - Verifying payment gateway transactions
 - Receiving confirmation emails
 - Backend data validation
-- (Payment-related test cases are marked as Blocked.)
 
+  
 **Test Approach**
 
 
@@ -94,4 +94,6 @@ Fail – Expected behavior not met
 The ticket purchase feature was reviewed for usability, validation, and flow consistency. While payment confirmation could not be fully tested, key pre-payment functionality and user interactions were evaluated, and potential risks were identified.
 
 **Marina Oliveira**
+
+
 **Junior QA | Manual Testing | Test Case Design | Bug Reporting**
